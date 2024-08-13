@@ -1,0 +1,14 @@
+{
+    ProductName,
+    CPU,
+    GPU,
+    Motherboard,
+    RAM,
+    ROM,
+    PowerSupply,
+    Case,
+    Cooling,
+    Price,
+    StockQuantity,
+    Description,
+  }

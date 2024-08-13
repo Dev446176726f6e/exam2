@@ -1,0 +1,74 @@
+[
+  {
+    "ProductName": "Intel Maxitron",
+    "Processor": "Intel i9-13900H",
+    "GraphicsCard": "MSI Nvidia 4080 super 16Gb",
+    "Motherboard": "Gigabyte Z709 wifi",
+    "RAM": 64,
+    "ROM": 512,
+    "PowerSupply": 1000,
+    "CaseBox": "DeepCool W1235",
+    "Cooling": "DeepCool iz563",
+    "Price": 3790.4,
+    "StockQuantity": 1,
+    "Info": "Powerful gaming machine capable of 4k gaming."
+  },
+
+  {
+    "ProductName": "AMD Maxitron",
+    "Processor": "AMD Ryzen 9 79203D",
+    "GraphicsCard": "MSI Nvidia 4090 24Gb",
+    "Motherboard": "ASUS TUF X509 wifi",
+    "RAM": 32,
+    "ROM": 1024,
+    "PowerSupply": 950,
+    "CaseBox": "WD W1235",
+    "Cooling": "ZENLI iz563",
+    "Price": 2809.56,
+    "StockQuantity": 4,
+    "Info": "Powerful AMD pC."
+  },
+  {
+    "FirstName": "Nodir",
+    "LastName": "Xakimov",
+    "PassportID": "AD 1547890",
+    "Email": "xakimovnodir@gmai.com",
+    "PhoneNumber": "+998973456654",
+    "Adress": "Toshkent vil, Nazarbek, 123d"
+  },
+  {
+    "FirstName": "Ulug'bek",
+    "LastName": "Xasanov",
+    "PassportID": "AC 453452",
+    "Email": "ulugbekx@gmai.com",
+    "PhoneNumber": "+9987734566654",
+    "Adress": "Toshkent shah, Uchtepa tumani, 25-34-9"
+  },
+  {
+    "CustomerID": 2,
+    "ProductID": 1,
+    "AdvancePercentage": 32.5,
+    "InterestRate": 15,
+    "TotalAmount": 567900.7,
+    "MonthlyPayment": 36736,
+    "CurStatus": "6 month",
+    "ContractDate": "2023-11-08",
+    "Quantity": 4
+  },
+  {
+    "ContractID": 2,
+    "PaymentDate": "2023-03-09",
+    "AmountPaid": 172500,
+    "BalanceRemaining": 34500.0,
+    "PaymentMethod": "Cash",
+    "MonthLeft": 4
+  },
+  {
+    "ContractID": 1,
+    "PaymentDate": "2022-02-12",
+    "AmountPaid": 455677,
+    "BalanceRemaining": 3456.0,
+    "PaymentMethod": "HUMO",
+    "MonthLeft": 1
+  }
+]
